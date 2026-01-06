@@ -49,6 +49,6 @@ background-color: rgb(189, 223, 223);
 
 @media screen and (min-width:480px) and (max-width:768px) {
     .card{
-        width:32%;
+        width:35%;
     }
 }
